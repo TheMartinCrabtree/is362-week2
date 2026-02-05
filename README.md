@@ -1,7 +1,9 @@
 # IS 362 week 2 homework
 
 **Martin Crabtree**
+
 IS-362 Week 2
+
 **Instructions:** Your week 2 assignment is to create a small Jupyter (IPython) Notebook about one aspect of data structures that you might find somewhat challenging, such as set comprehensions, or using the zip() function. Your Jupyter Notebook should include both code and some documentation, which should utilize Markdown. Your Jupyter Notebook should be hosted in GitHub; please provide a link in your assignment submission.
 
 ## The data structure challenge: How do you implement the equivalent of a C++/C# 2D array in Python?
